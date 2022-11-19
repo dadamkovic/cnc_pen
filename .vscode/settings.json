@@ -1,0 +1,6 @@
+{
+  "files.associations": {
+    "grbl.h": "c",
+    "defaults_drawbot.h": "c"
+  }
+}
